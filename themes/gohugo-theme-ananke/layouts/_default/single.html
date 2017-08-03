@@ -1,0 +1,22 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="cf ph3 mw7">
+      <header>
+        <!--<p class="f6 b helvetica tracked">
+          {{ humanize .Section | upper  }}
+        </p>
+		-->
+        <h1 class="" style="text-transform:capitalize; font-size:1.5em">
+          {{ .Title  }}
+        </h1>
+      </header>
+      <div class="nested-copy-line-height lh-copy  nested-links nested-img mid-gray">
+        {{ .Content }}
+      </div>
+    </article>
+    <aside class="ph3 mt2 mt6-ns">
+      {{ partial "menu-contextual.html" . }}
+    </aside>
+  </div>
+{{ end }}
