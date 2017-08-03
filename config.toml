@@ -1,5 +1,5 @@
 title = "Douglas Crescent Gardens Association"
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 
