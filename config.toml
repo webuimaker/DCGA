@@ -1,0 +1,187 @@
+title = "Douglas Crescent Gardens Association"
+baseURL = ""
+languageCode = "en-us"
+theme = "gohugo-theme-ananke"
+
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[[menu.navbar]]
+    name = "Home"
+    weight = 1
+    identifier = "index.html"
+    url = "/"
+[[menu.navbar]]
+    name = "Archive"
+    weight = 2
+    identifier = "archive"
+    url = "/archive/"
+[[menu.navbar]]
+    name = "About US"
+    weight = 3
+    identifier = "committee"
+    url = "/committee/"
+[[menu.navbar]]
+    name = "Accounts"
+	parent = "committee"
+    weight = -100
+    url = "/committee/accounts/"
+[[menu.navbar]]
+    name = "Subscriptions"
+	parent = "committee"
+	identifier = "subscriptions"
+    weight = -100
+    url = "/committee/subscriptions/"
+[[menu.navbar]]
+    name = "Annual General Meeting"
+	parent = "committee"
+    weight = -200
+    url = "/committee/annual-general-meeting/"
+[[menu.navbar]]
+    name = "Contact"
+	parent = ""
+    weight = 4
+    url = "/contact-us/"
+[[menu.navbar]]
+    name = "Latest News"
+	parent = ""
+    weight =5
+    url = "/latest-news-and-information/"
+[[menu.navbar]]
+    name = "Rules And Policies"
+	parent = ""
+	identifier = "rules-and-policies"
+    weight = 6
+    url = "/rules-and-policies/"
+[[menu.navbar]]
+    name = "Ball Games"
+	parent = "rules-and-policies"
+    weight = -200
+    url = "/rules-and-policies/ball-games/"
+[[menu.navbar]]
+    name = "Barbecues"
+	parent = "rules-and-policies"
+    weight = -200
+    url = "/rules-and-policies/barbecues/"	
+[[menu.navbar]]
+    name = "Dogs & Dog Owners"
+	parent = "rules-and-policies"
+    weight = -200
+    url = "/rules-and-policies/dogs/"	
+[[menu.navbar]]
+    name = "Keys"
+	parent = "rules-and-policies"
+    weight = -200
+    url = "/rules-and-policies/keys/"
+[[menu.navbar]]
+    name = "Litter Picking"
+	parent = "rules-and-policies"
+    weight = -200
+    url = "/rules-and-policies/litter-picking/"
+[[menu.navbar]]
+    name = "History & Description"
+	parent = ""
+    weight = 7
+    url = "/description/"		
+[[menu.navbar]]
+    name = "Management & Maintenance"
+	parent = ""
+	identifier = "management-and-maintenance"
+    weight = 8
+    url = "/management-and-maintenance/"
+[[menu.navbar]]
+    name = "Flower borders"
+	parent = "management-and-maintenance"
+    weight = -200
+    url = "/management-and-maintenance/flower-borders/"
+[[menu.navbar]]
+    name = "Latest Developments"
+	parent = "management-and-maintenance"
+    weight = -200
+    url = "/management-and-maintenance/garden-developments/"
+[[menu.navbar]]
+    name = "Trees"
+	parent = "management-and-maintenance"
+    weight = -200
+    url = "/management-and-maintenance/management-maintenance/"
+[[menu.navbar]]
+    name = "Nature notes"
+	parent = ""
+    weight = 9
+    url = "/nature-notes/"
+[[menu.navbar]]
+    name = "For Children"
+	parent = ""
+    weight = 10
+    url = "/children/"
+[[menu.navbar]]
+    name = "Join in"
+	parent = ""
+    weight = 11
+    url = "/trees/"
+[[menu.navbar]]
+    name = "Events"
+	parent = ""
+	identifier = "events"
+    weight = 12
+    url = "/events/"
+[[menu.navbar]]
+    name = "Private parties"
+	parent = "events"
+    weight = -200
+    url = "/events/private-parties/"
+[[menu.navbar]]
+    name = "Events Calendar"
+	parent = "events"
+	identifier = "events-calendar"
+    weight = -200
+    url = "/events/events-calendar/"	
+[[menu.navbar]]
+    name = "Neighbourhood Matters"
+	parent = ""
+	identifier = "neighbourhood-matters"
+    weight = 13
+    url = "/neighbourhood-matters/"
+[[menu.navbar]]
+    name = "Bike Storage"
+	parent = "neighbourhood-matters"
+    weight = -200
+    url = "/neighbourhood-matters/bike-storage/"
+[[menu.navbar]]
+    name = "City Consultations"
+	parent = "neighbourhood-matters"
+    weight = -200
+    url = "/neighbourhood-matters/city-consultations/"
+[[menu.navbar]]
+    name = "Planning Issues"
+	parent = "neighbourhood-matters"
+    weight = -200
+    url = "/neighbourhood-matters/planning-issues/"
+[[menu.navbar]]
+    name = "Useful Links"
+	parent = ""
+    weight = 14
+    url = "/useful-links/"	
+	
+	
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  custom_css = ["dcga.css"]
+  description = "The last theme you'll ever need. Maybe."
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
