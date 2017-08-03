@@ -1,11 +1,30 @@
-# Install the apt prerequisites
-addons:
-  apt:
-    packages:
-      - python-pygments
+language: go
+
+go:
+    - "1.7.1"
+
+env:
+    global:
+        - SSH_KEY="id_rsa"
+        - GIT_NAME="webuimaker"
+        - GIT_EMAIL="webuimaker@gmail.com"
+        - SOURCE_DIR="public"
+        - DEPLOY_BRANCH="source"
+
+
+before_script:
+    - git clone --branch v2 https://github.com/go-yaml/yaml $GOPATH/src/gopkg.in/yaml.v2
+    - go get -u -v github.com/spf13/hugo
+
 # Clean and don't fail
 install:
   - rm -rf public || exit 0
-# Build the website
+
 script:
-  - binaries/hugo --theme=gohugo-theme-ananke
+    - binaries/hugo --theme=gohugo-theme-ananke
+    - hugo
+
+after_success:
+    - echo "rcoedo.com" > ./public/CNAME
+    - ./scripts/deploy.sh
+	
