@@ -28,10 +28,10 @@ Going forward, having dealt with the backlog, our strategy will be positively ma
 
 &nbsp;
 
- [1]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2015/10/Reinspection-report-0915.doc
- [2]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2014/10/Tree-Reinspection-report-0914.pdf
- [3]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/Reinspection-report-2013.pdf
- [4]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/Microsoft-Word-Reinspection-report-0912.pdf
- [5]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/Microsoft-Word-Report-Douglas-Crescent-Gardens-1011.pdf
- [6]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/Appendix-4-Tree-Condition-Survey-311011.pdf
- [7]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/Appendix-4a-Prioritised-remedial-work.pdf
+ [1]: /doc/Reinspection-report-0915.doc
+ [2]: /doc/Tree-Reinspection-report-0914.pdf
+ [3]: /doc/Reinspection-report-2013.pdf
+ [4]: /doc/Microsoft-Word-Reinspection-report-0912.pdf
+ [5]: /doc/Microsoft-Word-Report-Douglas-Crescent-Gardens-1011.pdf
+ [6]: /doc/Appendix-4-Tree-Condition-Survey-311011.pdf
+ [7]: /doc/Appendix-4a-Prioritised-remedial-work.pdf

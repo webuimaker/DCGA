@@ -153,3 +153,6 @@ body.bg-near-white{
 }
 
 .menu ul li:last-child a { border: none; }
+.actualwidth{width:auto}
+.actualwidth img{width:auto; margin:0px auto;}
+.actualwidth figcaption {display:none;}

@@ -5,8 +5,11 @@ description: "The last theme you'll ever need. Maybe."
 author: "admin"
 
 ---
+{{< figure src="/images/centralLogo.jpg" title="Steve Francia" class="actualwidth" >}}
+
+
 <p style="text-align: left;" align="center">
-  <b><span style="text-decoration: underline;"><a href="http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/centralLogo.jpg"><img class="size-full wp-image-199 alignright" alt="centralLogo" src="http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/centralLogo.jpg" width="164" height="164" srcset="http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/centralLogo-150x150.jpg 150w, http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/centralLogo.jpg 164w" sizes="(max-width: 164px) 100vw, 164px" /></a></span></b><b><span style="text-decoration: underline;">MESSAGE TO DOG OWNERS</span></b>
+<b><span style="text-decoration: underline;">MESSAGE TO DOG OWNERS</span></b>
 </p>
 
 <p style="text-align: left;" align="center">

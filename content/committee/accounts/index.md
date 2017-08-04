@@ -13,7 +13,7 @@ Welcome to my blog with some of my work in progress. I've been working on this b
 
 [Accounts 2014 -2015][4]
 
- [1]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/5_Year_forecastJune13.xls
- [2]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/Accounts2012-2013.pdf
- [3]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2013/07/2014-DCGA-Accounts.pdf
- [4]: http://www.douglascrescentgardensassociation.org.uk/wp-content/uploads/2015/07/2015-DCGA-Accounts-Signed.pdf
+ [1]: /doc/5_Year_forecastJune13.xls
+ [2]:/doc/Accounts2012-2013.pdf
+ [3]: /doc/2014-DCGA-Accounts.pdf
+ [4]: /doc/2015-DCGA-Accounts-Signed.pdf

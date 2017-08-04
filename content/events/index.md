@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "events"
 author: admin
 featured_image: '/images/sunset.jpg'
 ---

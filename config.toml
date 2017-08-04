@@ -17,15 +17,27 @@ enableRobotsTXT = true
     identifier = "index.html"
     url = "/"
 [[menu.navbar]]
-    name = "Archive"
-    weight = 2
-    identifier = "archive"
-    url = "/archive/"
+    name = "News"
+	parent = ""
+	identifier = "news"
+    weight =2
+    url = "/latest-news-and-information/"
 [[menu.navbar]]
-    name = "About US"
+    name = "About"
     weight = 3
     identifier = "committee"
-    url = "/committee/"
+    url = "/committee/"	
+[[menu.navbar]]
+    name = "Contact"
+	parent = ""
+    weight = 4
+    url = "/contact-us/"
+[[menu.navbar]]
+    name = "Archive"
+    weight = 2
+	parent = "news"
+    identifier = "archive"
+    url = "/archive/"
 [[menu.navbar]]
     name = "Accounts"
 	parent = "committee"
@@ -42,16 +54,6 @@ enableRobotsTXT = true
 	parent = "committee"
     weight = -200
     url = "/committee/annual-general-meeting/"
-[[menu.navbar]]
-    name = "Contact"
-	parent = ""
-    weight = 4
-    url = "/contact-us/"
-[[menu.navbar]]
-    name = "Latest News"
-	parent = ""
-    weight =5
-    url = "/latest-news-and-information/"
 [[menu.navbar]]
     name = "Rules And Policies"
 	parent = ""
@@ -116,7 +118,7 @@ enableRobotsTXT = true
     url = "/nature-notes/"
 [[menu.navbar]]
     name = "For Children"
-	parent = ""
+	parent = "news"
     weight = 10
     url = "/children/"
 [[menu.navbar]]
@@ -137,7 +139,7 @@ enableRobotsTXT = true
     url = "/events/private-parties/"
 [[menu.navbar]]
     name = "Events Calendar"
-	parent = "events"
+	parent = "news"
 	identifier = "events-calendar"
     weight = -200
     url = "/events/events-calendar/"	
