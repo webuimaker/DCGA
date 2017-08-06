@@ -21,154 +21,58 @@ enableRobotsTXT = true
 	parent = ""
 	identifier = "news"
     weight =2
-    url = "/latest-news-and-information/"
+    url = "/news/"
 [[menu.navbar]]
     name = "About"
     weight = 3
-    identifier = "committee"
-    url = "/committee/"	
+    identifier = "about"
+    url = "/about/"	
 [[menu.navbar]]
     name = "Contact"
 	parent = ""
     weight = 4
     url = "/contact-us/"
 [[menu.navbar]]
-    name = "Archive"
-    weight = 2
-	parent = "news"
-    identifier = "archive"
-    url = "/archive/"
-[[menu.navbar]]
-    name = "Accounts"
-	parent = "committee"
-    weight = -100
-    url = "/committee/accounts/"
-[[menu.navbar]]
-    name = "Subscriptions"
-	parent = "committee"
-	identifier = "subscriptions"
-    weight = -100
-    url = "/committee/subscriptions/"
-[[menu.navbar]]
-    name = "Annual General Meeting"
-	parent = "committee"
-    weight = -200
-    url = "/committee/annual-general-meeting/"
-[[menu.navbar]]
     name = "Rules And Policies"
-	parent = ""
+	parent = "about"
 	identifier = "rules-and-policies"
     weight = 6
-    url = "/rules-and-policies/"
-[[menu.navbar]]
-    name = "Ball Games"
-	parent = "rules-and-policies"
-    weight = -200
-    url = "/rules-and-policies/ball-games/"
-[[menu.navbar]]
-    name = "Barbecues"
-	parent = "rules-and-policies"
-    weight = -200
-    url = "/rules-and-policies/barbecues/"	
-[[menu.navbar]]
-    name = "Dogs & Dog Owners"
-	parent = "rules-and-policies"
-    weight = -200
-    url = "/rules-and-policies/dogs/"	
-[[menu.navbar]]
-    name = "Keys"
-	parent = "rules-and-policies"
-    weight = -200
-    url = "/rules-and-policies/keys/"
-[[menu.navbar]]
-    name = "Litter Picking"
-	parent = "rules-and-policies"
-    weight = -200
-    url = "/rules-and-policies/litter-picking/"
-[[menu.navbar]]
-    name = "History & Description"
-	parent = ""
-    weight = 7
-    url = "/description/"		
-[[menu.navbar]]
-    name = "Management & Maintenance"
-	parent = ""
-	identifier = "management-and-maintenance"
-    weight = 8
-    url = "/management-and-maintenance/"
-[[menu.navbar]]
-    name = "Flower borders"
-	parent = "management-and-maintenance"
-    weight = -200
-    url = "/management-and-maintenance/flower-borders/"
-[[menu.navbar]]
-    name = "Latest Developments"
-	parent = "management-and-maintenance"
-    weight = -200
-    url = "/management-and-maintenance/garden-developments/"
+    url = "/about/rules-and-policies/"
 [[menu.navbar]]
     name = "Trees"
-	parent = "management-and-maintenance"
+	parent = "about"
     weight = -200
-    url = "/management-and-maintenance/management-maintenance/"
+    url = "/about/management-maintenance/"
+[[menu.navbar]]
+    name = "History & Description"
+	parent = "about"
+    weight = 7
+    url = "/about/description/"
+[[menu.navbar]]
+    name = "Management & Maintenance"
+	parent = "about"
+	identifier = "management-and-maintenance"
+    weight = 8
+    url = "/about/management-and-maintenance/"
 [[menu.navbar]]
     name = "Nature notes"
-	parent = ""
+	parent = "about"
     weight = 9
-    url = "/nature-notes/"
-[[menu.navbar]]
-    name = "For Children"
-	parent = "news"
-    weight = 10
-    url = "/children/"
-[[menu.navbar]]
-    name = "Join in"
-	parent = ""
-    weight = 11
-    url = "/trees/"
-[[menu.navbar]]
-    name = "Events"
-	parent = ""
-	identifier = "events"
-    weight = 12
-    url = "/events/"
-[[menu.navbar]]
-    name = "Private parties"
-	parent = "events"
-    weight = -200
-    url = "/events/private-parties/"
-[[menu.navbar]]
-    name = "Events Calendar"
-	parent = "news"
-	identifier = "events-calendar"
-    weight = -200
-    url = "/events/events-calendar/"	
+    url = "/about/nature-notes/"
 [[menu.navbar]]
     name = "Neighbourhood Matters"
-	parent = ""
+	parent = "about"
 	identifier = "neighbourhood-matters"
     weight = 13
-    url = "/neighbourhood-matters/"
-[[menu.navbar]]
-    name = "Bike Storage"
-	parent = "neighbourhood-matters"
-    weight = -200
-    url = "/neighbourhood-matters/bike-storage/"
-[[menu.navbar]]
-    name = "City Consultations"
-	parent = "neighbourhood-matters"
-    weight = -200
-    url = "/neighbourhood-matters/city-consultations/"
-[[menu.navbar]]
-    name = "Planning Issues"
-	parent = "neighbourhood-matters"
-    weight = -200
-    url = "/neighbourhood-matters/planning-issues/"
+    url = "/about/neighbourhood-matters/"
 [[menu.navbar]]
     name = "Useful Links"
-	parent = ""
+	parent = "about"
     weight = 14
-    url = "/useful-links/"	
+    url = "/about/useful-links/"	
+	
+
+
 	
 	
 

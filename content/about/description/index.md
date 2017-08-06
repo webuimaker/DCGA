@@ -1,0 +1,17 @@
+---
+title: 'History & Description'
+author: admin
+featured_image: '/images/sunset.jpg'
+---
+The land on which Douglas Crescent was built and 36-62 Palmerston Place belonged to the George Heriot&#8217;s Trust and the Trust feued the land for development in 1872 under the direction of the Trust&#8217;s surveyor, John Chesser. [http://www.scottisharchitects.org.uk/architect_full.php?id=100287][1]
+
+Building the houses on the Crescent started in 1875 and was largely completed by 1879. The feu charter of 1872 included a condition that the owners of the properties in Douglas Crescent and 36-62 Palmerston Place &#8220;should at sole expense &#8230; enclosing and laying out a pleasure ground&#8221; and &#8220;they and any who may acquire the right to the said pleasure ground&#8230;shall maintain and keep in order such said grounds and enclosures at their joint expense in all time thereafter&#8221;. No pleasure ground as originally envisaged proved possible because the slope to the Water of Leith was too steep but the land to the north of the crescent was enclosed and planted with trees and shrubs with house owners meeting the cost. The first Committee of Management met in1878. The minutes of the committee over the years record, though not always clearly, the care of the gardens, applications for membership and use of the tennis courts, the payment of the gardeners, the fixing of subscriptions and special levies. The owners of the houses in Douglas Gardens (which were built in 1890-92) were allowed membership of the gardens through lump sum contributions in 1893.
+
+What is now the lawn areas was acquired in 1885 from the Heriot&#8217;s Trust which had intended to create stables there. This area was managed separately by the owners of 23-28 Douglas Crescent (originally designed and built as part of Palmerston Place) and called the Belford Bridge Gardens. In the 1890s the Belford Bridge Gardens were merged and managed with the rest of the gardens and during this period the 3 grassed lawns were used for tennis and croquet.  The beech hedge was planted in 1886 to create a more private top lawn area.  The lime trees which are a major feature of the crescent were planted as a double row along the top path in 1879-80.  As early as 1894 there were complaints from residents about the dense growth of the limes and they were thinned out and later pollarded.
+
+The gardens consist of 4.4 acres (1.76 hectares) with the Water of Leith forming the Northern boundary.  There are over 400 trees many of them dating from the original planting in 1879 and include Ash, Elm, Sycamore, Horse Chestnut, Field Maple, Wild Cherry, Holly, Hawthorn, Yew and lime.  There are a number of mature Whitebeams on the Eastern boundary and by the middle lawn. The trees are protected as the gardens form an important part of the Edinburgh World Heritage site and the West End, like many parts of the city is a designated Conservation Area which brings with it additional planning controls. This means that trees in private gardens are protected in the same way and the City Council&#8217;s permission is required before any felling takes place. The iron railings were installed in 1879 and are listed together with the category B listing of the houses in the crescent.
+
+You can read more about the gardens in Connie Byrom&#8217;s superb book on Edinburgh&#8217;s New Town Gardens published in 2005 (ISBN Ref ISBN10: 1 84158 402 9).
+
+
+ [1]: http://www.scottisharchitects.org.uk/architect_full.php?id=100287
